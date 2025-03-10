@@ -23,7 +23,7 @@ Utilize PCA to demonstrate how essential variables can be derived from the Cance
 
 - GeeksforGeeks. 27 Jun, 2024. Recovering Feature Names of explained_variance_ratio_ in PCA with sklearn
 https://www.geeksforgeeks.org/recovering-feature-names-of-explainedvarianceratio-in-pca-with-sklearn/
--Krish Naik. Principle Component Analysis (PCA) using sklearn and python
+- Krish Naik. Principle Component Analysis (PCA) using sklearn and python
 https://www.youtube.com/watch?v=QdBy02ExhGI
 - Scikit Learn. 2007-2025. PCA
 https://scikit-learn.org/1.6/modules/generated/sklearn.decomposition.PCA.html
